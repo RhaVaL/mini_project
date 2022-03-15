@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Republic</h1>
+<h2>Republic</h2>
+<a>asdasd</a>
+<a>asdasd</a>
 </body>
 </html>

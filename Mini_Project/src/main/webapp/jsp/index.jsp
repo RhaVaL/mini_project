@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 </head>
 <body>
+<<<<<<< HEAD
 
     <button type="button" class="btn btn-primary" onclick="ScanBtn()" id="scanBtn" data-toggle="modal" data-target="#exampleModalCenter">
         Launch demo modal
@@ -74,6 +75,11 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+=======
+<h2>Republic</h2>
+<a>asdasd</a>
+<a>asdasd</a>
+>>>>>>> branch 'master' of https://github.com/neopetz/mini_project.git
 </body>
 </html>
 
